@@ -6,6 +6,8 @@ Containers são uma forma de **empacotar uma aplicação junto com todas as suas
 Diferente das máquinas virtuais, os containers **não possuem um sistema operacional próprio completo**. Em vez disso, eles compartilham o **kernel** do sistema operacional hospedeiro, o que os torna muito mais leves e eficientes.
 Em outras palavras, um container é um **ambiente isolado de execução**, mas que utiliza os recursos do sistema de forma muito mais direta.
 
+**Kernel** é núcleo central de um sistema operacional, atuando como ponte intermediária entre o software e o hardware.
+
 - São muito mais leves.
 - Nascem/morrem rápido.
 - Sem custos de manutenção do SO. 
