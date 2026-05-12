@@ -21,6 +21,7 @@ usando um container real com carga de CPU/memória.
     - stress --vm 1 --timeout 500
 
 4) Saindo do terminal do container sem parar ele, (forçando um deattach)
+
 Pressione:
 
     - CTRL + P
