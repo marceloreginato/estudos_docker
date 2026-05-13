@@ -34,12 +34,24 @@ OBS: `docker run` cria e executa um container a partir de uma imagem.
 docker container ls  
 ```
 
+Ou
+
+```bash
+docker ps  
+```
+
 ---
 
 4) Listar todos os containers (incluindo parados):
 
 ```bash
-- docker container ls -a  
+docker container ls -a  
+```
+
+Ou
+
+```bash
+docker container ps -a  
 ```
 
 OBS: Podemos verificar as camadas de read/write de um container com:
